@@ -1,0 +1,8 @@
+{
+  "name": "FitPulse ",
+  "description": "A high-performance calorie tracker and fitness application featuring AI-powered meal analysis, vision-based scanning, and elite macro planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
